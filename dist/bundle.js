@@ -82,6 +82,7 @@ console.log(x);
 var a = "J'apprends Webpack !";
 
 console.log(a);
+document.write("hellow world");
 
 /***/ })
 /******/ ]);

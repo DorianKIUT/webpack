@@ -10,3 +10,4 @@ console.log(x);
 let a = "J'apprends Webpack !";
 
 console.log(a)
+document.write("hellow world")
